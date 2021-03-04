@@ -16,3 +16,5 @@
  1. [Designer Tool (Small Figma)](https://codesandbox.io/s/designer-tool-small-figma-hjidx?file=/src/App.js)
 
  1. [Add to cart](https://codesandbox.io/s/add-to-cart-1olid?file=/src/App.js)
+
+ 1. [Switch Tabs](https://codesandbox.io/s/switch-tabs-ffy0n)
