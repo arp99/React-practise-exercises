@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  font-family: sans-serif;
+}
+.item-list,
+.cart-container {
+  max-width: 25rem;
+  margin: 2rem auto;
+  padding: 0.5rem;
+}
+
+.item {
+  width: 100%;
+  margin: 0.2rem 0;
+  display: flex;
+  padding: 0.5rem 1rem;
+  box-shadow: 0 1px 2px -1px grey;
+  justify-content: space-between;
+}
+button {
+  padding: 0.2rem 0.4rem;
+  border: 0.1rem solid slateblue;
+  border-radius: 0.3rem;
+  background: transparent;
+  color: #545e63;
+  outline: none;
+}
+button:disabled:hover {
+  cursor: not-allowed;
+}
+button:hover {
+  cursor: pointer;
+}
