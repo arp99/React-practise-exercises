@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.toast-container {
+  width: 15rem;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  line-height: 1.5rem;
+  box-shadow: 0 2px 5px -1px grey;
+  margin: 1rem auto;
+  animation: ani 0.5s ease-in-out;
+  transition: 1s;
+}
+
+@keyframes ani {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.btn {
+  padding: 0.2rem 0.5rem;
+  background: transparent;
+  border: 2px solid;
+  border-radius: 0.2rem;
+  outline: none;
+}
+button:hover {
+  cursor: pointer;
+}
+.btn-error {
+  border-color: #ff1e00;
+}
+.btn-success {
+  border-color: #39f839;
+}
+.btn-warning {
+  border-color: #ffe600;
+}
+#error {
+  color: #ff1e00;
+}
+#warning {
+  color: #ffe600;
+}
+#success {
+  color: #48f548;
+}
