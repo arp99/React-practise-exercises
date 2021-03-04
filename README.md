@@ -18,3 +18,5 @@
  1. [Add to cart](https://codesandbox.io/s/add-to-cart-1olid?file=/src/App.js)
 
  1. [Switch Tabs](https://codesandbox.io/s/switch-tabs-ffy0n)
+
+ 1. [Toast](https://codesandbox.io/s/toast-g239x)
