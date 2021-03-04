@@ -8,3 +8,5 @@
  1. [Password Match](https://codesandbox.io/s/password-match-nxe3b)
 
  1. [Alphanumeric Password](https://codesandbox.io/s/alphanumeric-password-ewp55)
+
+ 1. [Disable Submit](https://codesandbox.io/s/disable-submit-1l53f)
