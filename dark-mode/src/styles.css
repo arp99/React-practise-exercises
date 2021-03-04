@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.App {
+	font-family: sans-serif;
+	text-align: center;
+	width: 100vw;
+	height: 100vh;
+	transition: 0.5s ease-in-out;
+	padding: 1rem;
+	position: relative;
+}
+button {
+	padding: 0.2rem 0.5rem;
+	position: absolute;
+	right: 1rem;
+}
+button:hover {
+	cursor: pointer;
+}
