@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --text-color1: #4e5255;
+  --text-color2: #8e9da9;
+  --primary-color: #1da1f2;
+  --bg-color: #999999;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background: var(--bg-color);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 70%;
+  max-width: 40rem;
+  max-height: 20rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #ffffff;
+}
+textarea {
+  width: 80%;
+  min-height: 10rem;
+  border: none;
+  outline: none;
+  font-size: 1.3rem;
+  color: var(--text-color1);
+  resize: none;
+}
+textarea::placeholder {
+  color: var(--text-color2);
+  font-size: 1.1rem;
+}
+.visible {
+  font-size: 0.8rem;
+  color: #adbbc4;
+}
+.invisible {
+  visibility: hidden;
+}
