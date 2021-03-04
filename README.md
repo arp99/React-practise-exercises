@@ -24,3 +24,5 @@
  1. [Todo/strikethrough](https://codesandbox.io/s/todostrikethrough-nu2in)
 
  1. [Dark Mode](https://codesandbox.io/s/dark-mode-fku1s)
+
+ 1. [Like in List](https://codesandbox.io/s/like-list-0ybqq)
