@@ -10,3 +10,5 @@
  1. [Alphanumeric Password](https://codesandbox.io/s/alphanumeric-password-ewp55)
 
  1. [Disable Submit](https://codesandbox.io/s/disable-submit-1l53f)
+
+ 1. [Show Password](https://codesandbox.io/s/show-password-gh6yi?file=/src/App.js)
